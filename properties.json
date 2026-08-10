@@ -1,0 +1,20 @@
+[
+  {
+    "id": "11212",
+    "ref": "11212",
+    "titulo": "123123",
+    "zona": "12313",
+    "zonaLabel": "123123",
+    "tipo": "piso",
+    "tipoLabel": "Piso",
+    "operacion": "venta",
+    "precio": 1231,
+    "hab": 12312,
+    "banos": 131312,
+    "m2": 3123,
+    "icon": "icon-building",
+    "fotos": [
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1786381180984-b65do1.jpg"
+    ]
+  }
+]
