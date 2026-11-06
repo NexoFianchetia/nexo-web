@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "id": "11212",
+    "ref": "11212",
+    "titulo": "Piso REformado",
+    "zona": "casco-Antigo",
+    "zonaLabel": "casco",
+    "tipo": "piso",
+    "tipoLabel": "Piso",
+    "operacion": "venta",
+    "precio": 3500000,
+    "hab": 1,
+    "banos": 1,
+    "m2": 90,
+    "icon": "icon-building",
+    "fotos": [
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1793952585386-1sw0sg.jpg?token=CLGUZMUTMSE6T2X4PBPNKDDK5WFYO"
+    ]
+  }
+]
