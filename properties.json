@@ -1,1 +1,39 @@
-[]
+[
+  {
+    "id": "002--CONCEPCIÓN",
+    "ref": "002--CONCEPCIÓN",
+    "titulo": "PISO DE 3 DORMITORIOS EN ZONA CC ARCCA",
+    "zona": "CC ARCCA",
+    "zonaLabel": "CENTRO COMERCIAL ARCCA",
+    "tipo": "piso",
+    "tipoLabel": "Piso",
+    "operacion": "venta",
+    "precio": 159000,
+    "hab": 3,
+    "banos": 1,
+    "m2": 110,
+    "icon": "icon-building",
+    "fotos": [
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1793955053019-73nft2.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1793955078473-x52v9f.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1793955081320-509yo1.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1793955082959-qaadbb.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1793955085440-ati756.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1793955088864-1z532r.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1793955090000-smst4c.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1793955091129-avzfo1.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1793955092714-qf8uao.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1793955094058-wisiyp.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1793955095394-i1acf3.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1793955096536-o7bkvr.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1793955097640-uxz0jn.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1793955098694-xa4ct9.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1793955099882-wfh4k6.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1793955101342-fcn28l.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1793955102444-dwg2hl.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1793955103484-1dwksy.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1793955053769-igtqk1.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1793955104541-sebkzh.jpg"
+    ]
+  }
+]
