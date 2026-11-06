@@ -34,5 +34,37 @@
       "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1793955755354-qo3e8x.jpg",
       "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1793955757509-b0crp1.jpg"
     ]
+  },
+  {
+    "id": "001--PADRE LUCAS",
+    "ref": "001--PADRE LUCAS",
+    "titulo": "PISO DE 120 M2 APROX. CON 4 DORMITORIOS EN ZONA DE AVDA. VALVANERA",
+    "zona": "VALVANERA",
+    "zonaLabel": "VALVANERA",
+    "tipo": "piso",
+    "tipoLabel": "Piso",
+    "operacion": "venta",
+    "precio": 169000,
+    "hab": 4,
+    "banos": 2,
+    "m2": 123,
+    "icon": "icon-building",
+    "fotos": [
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1793955943772-ilftj4.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1793955946340-czhk2u.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1793955939180-prja75.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1793955952301-whjkev.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1793955954296-pxic8g.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1793955955633-ymtnn0.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1793955961617-gau3g0.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1793955960550-9y5dne.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1793955958560-l7xq13.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1793955959586-swuxv1.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1793955966435-pyznff.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1793955965446-7o27as.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1793955964490-c5u4f1.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1793955939512-gtzwky.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1793955963177-jh2197.jpg"
+    ]
   }
 ]
