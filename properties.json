@@ -67,5 +67,42 @@
       "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1793955939512-gtzwky.jpg",
       "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1793955963177-jh2197.jpg"
     ]
+  },
+  {
+    "id": "010--RAON",
+    "ref": "010--RAON",
+    "titulo": "PISO + TRASTERO EN TRAVESIA RAON -- 2º PLANTA CON ASCENSOR",
+    "zona": "CASTO ANTIGUO",
+    "zonaLabel": "TRAVESIA RAON",
+    "tipo": "piso",
+    "tipoLabel": "Piso",
+    "operacion": "venta",
+    "precio": 120000,
+    "hab": 3,
+    "banos": 1,
+    "m2": 91,
+    "icon": "icon-building",
+    "fotos": [
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794496223041-cbzxqy.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794496233888-3eglbv.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794496238624-z0dfd9.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794496244048-aw9j0k.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794496252868-ke59mm.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794496258876-zflen6.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794496265240-vwhfg4.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794496277624-9g69qs.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794496299392-06uy8u.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794496304159-9fvads.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794496309747-81b1f2.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794496316076-4vhdo4.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794496321639-0n4w5k.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794496331693-2eonbq.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794496337895-qfmj2e.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794496343914-l1a0ta.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794496349285-lbe5ru.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794496355405-m9nrw3.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794496361669-s6jhc2.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794496373697-kmjx7a.jpg"
+    ]
   }
 ]
