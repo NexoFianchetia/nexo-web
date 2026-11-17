@@ -72,6 +72,7 @@
     "id": "010--RAON",
     "ref": "010--RAON",
     "titulo": "PISO + TRASTERO EN TRAVESIA RAON -- 2º PLANTA CON ASCENSOR",
+    "descripcion": "¡TU NUEVO HOGAR EN CALAHORRA TE ESTÁ ESPERANDO!\n ¿Buscas un piso amplio, luminoso y listo para entrar a vivir? \nEste piso en Travesía Raón lo tiene todo para que empieces tu nueva etapa. \nDisfruta de 91 m² aprox. const. perfectamente distribuidos en una 2ª planta con ascensor, ubicado en una zona tranquila y con todos los servicios a un paso. Además, incluye un enorme trastero de 17 m² aprox. const. en el precio. \n¡Espacio de sobra para toda la familia! \n• 🛋️ Salón muy luminoso equipado con aire acondicionado, con salida a un gran balcón en esquina.\n • 🛏️ 3 dormitorios amplios con armarios empotrados (2 dormitorios). \n• 🍳 Cocina equipada con galería y una práctica despensa para tenerlo todo siempre ordenado. \n• ☀️ Balcón en esquina, ideal para tomar el aire y disfrutar de la luz natural. \n• 🚿 1 baño completo. \n• 🛋️ Totalmente amueblado. \n• 🔥 Calefacción individual de gas. \n• 🛗 Ascensor y portal reformado. \n• 📹 Sistema de videovigilancia tanto en el portal como en la zona de trasteros para tu total tranquilidad.\n 💶 Todo esto por solo 120.000 € (con el gran trastero de 17 m² incluido). \n📍 Ubicación: Travesía Raón, Calahorra. \n¡Ven a visitarlo y descubre todo su potencial! \n¿Quieres concertar una visita o pedir más detalles? \nMás información: Contacta con nuestra oficina en Calle General Gallarza, 23 de Calahorra o llámanos al 613 447248.",
     "tipo": "piso",
     "tipoLabel": "Piso",
     "operacion": "venta",
@@ -80,6 +81,7 @@
     "banos": 1,
     "m2": 91,
     "icon": "icon-building",
+    "portada": "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794496223041-cbzxqy.jpg",
     "fotos": [
       "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794496223041-cbzxqy.jpg",
       "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794496233888-3eglbv.jpg",
@@ -101,8 +103,6 @@
       "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794496355405-m9nrw3.jpg",
       "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794496361669-s6jhc2.jpg",
       "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794496373697-kmjx7a.jpg"
-    ],
-    "portada": "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794496223041-cbzxqy.jpg",
-    "descripcion": ""
+    ]
   }
 ]
