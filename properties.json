@@ -39,6 +39,7 @@
     "id": "001--PADRE LUCAS",
     "ref": "001--PADRE LUCAS",
     "titulo": "PISO DE 120 M2 APROX. CON 4 DORMITORIOS EN ZONA DE AVDA. VALVANERA",
+    "descripcion": "SE VENDE PISO CON 4 DORMITORIOS EN CALAHORRA 🛏️\n✨ Si tu familia ha crecido o necesitas espacio de verdad para teletrabajar, deja de buscar. \n Calle Padre Lucas esq. Avda. Valvanera \n🛋️ Salón GRANDE y súper LUMINOSO con salida directa a un gran balcón exterior (perfecto para tus momentos de relax). \n🍳 Cocina independiente amueblada y EQUIPADA con electrodomésticos + galería acristalada. \n🛌 4 dormitorios amplios con armarios empotrados. \n🛁 2 baños completos. \n🛗 3ª planta con ASCENSOR (Comodidad absoluta). \n☀️ Orientación Suroeste: Sol directo toda la tarde y luz natural infinita. 🔥 Calefacción de gas y armarios empotrados. \n💰 PRECIO: 169.000 €\nEspacio, luz, ascensor y muebles incluidos por este precio es algo que no se encuentra todos los días. \n¡Ven a visitarlo y descubre todo su potencial! \n¿Quieres concertar una visita o pedir más detalles? Más información: Contacta con nuestra oficina en Calle General Gallarza, 23 de Calahorra o llámanos al 613 447248.",
     "tipo": "piso",
     "tipoLabel": "Piso",
     "operacion": "venta",
@@ -47,6 +48,7 @@
     "banos": 2,
     "m2": 123,
     "icon": "icon-building",
+    "portada": "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1793956162431-31q7g8.jpg",
     "fotos": [
       "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1793956162431-31q7g8.jpg",
       "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1793955946340-czhk2u.jpg",
@@ -64,9 +66,7 @@
       "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1793955964490-c5u4f1.jpg",
       "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1793955939512-gtzwky.jpg",
       "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1793955963177-jh2197.jpg"
-    ],
-    "portada": "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1793956162431-31q7g8.jpg",
-    "descripcion": ""
+    ]
   },
   {
     "id": "010--RAON",
