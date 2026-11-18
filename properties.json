@@ -232,5 +232,21 @@
       "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794992509341-aj93xv.jpg",
       "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794992507566-iwn1e1.jpg"
     ]
+  },
+  {
+    "id": "003--GRANDE",
+    "ref": "003--GRANDE",
+    "titulo": "LOCAL HISTORICO EN CL. GRANDE",
+    "descripcion": "¡ATENCIÓN INVERSORES Y EMPRENDEDORES! \nUna joya histórica a un precio irrepetible. \nHay espacios que tienen historias que contar, y este local con más de 100 años de antigüedad está buscando a alguien que escriba su próximo capítulo. \nPor un precio increíble de 37.000 €, tienes a tu alcance una base arquitectónica espectacular para crear un negocio único. \nSí, necesita una reforma, pero ahí radica su magia. \nConserva la fachada original de madera que le da un toque clásico inigualable y un suelo hidráulico auténtico esperando a ser restaurado para brillar como el primer día. Además, cuenta con el espacio práctico que necesitas: almacén independiente y baño completo. Si tienes la visión para transformar un espacio con historia en el lugar de moda de la ciudad, este es tu momento. \n✅ Precio de venta imbatible: 37.000 € \n✅ Más de un siglo de historia y carácter arquitectónico. \n✅ Fachada clásica de madera que aportará un prestigio único a cualquier negocio. \n✅ Suelo hidráulico original recuperable (tendencia absoluta en interiorismo). \n✅ Distribución funcional con zona de almacén y baño completo. \n¡Ven a visitarlo y descubre todo su potencial! \n¿Quieres concertar una visita o pedir más detalles? Más información: Contacta con nuestra oficina en Calle General Gallarza, 23 de Calahorra o llámanos al 613 447248.",
+    "tipo": "local",
+    "tipoLabel": "Local comercial",
+    "operacion": "venta",
+    "precio": 37000,
+    "hab": 0,
+    "banos": 1,
+    "m2": 75,
+    "icon": "icon-shop",
+    "portada": "",
+    "fotos": []
   }
 ]
