@@ -246,7 +246,15 @@
     "banos": 1,
     "m2": 75,
     "icon": "icon-shop",
-    "portada": "",
-    "fotos": []
+    "portada": "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794992736762-1hk8za.jpg",
+    "fotos": [
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794992736762-1hk8za.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794992738679-y5nhte.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794992740561-cu0x6o.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794992781836-mtz4ss.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794992742446-exik6x.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794992765891-xfiupq.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794992744295-yeju2j.jpg"
+    ]
   }
 ]
