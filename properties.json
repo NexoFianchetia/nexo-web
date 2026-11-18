@@ -173,8 +173,17 @@
     "banos": 0,
     "m2": 205,
     "icon": "icon-shop",
-    "portada": "",
-    "fotos": []
+    "portada": "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794992226150-6cjwbq.jpg",
+    "fotos": [
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794992226150-6cjwbq.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794992234208-8g17ep.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794992245211-rx29l0.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794992247480-mys22v.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794992249631-4cleu7.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794992251731-7t5qul.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794992253653-w736t7.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794992255407-0nzfv2.jpg"
+    ]
   },
   {
     "id": "006--CANTABRIA",
