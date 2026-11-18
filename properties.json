@@ -159,5 +159,21 @@
       "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794991769397-4sgmvn.jpg",
       "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794991771400-2jnm8y.jpg"
     ]
+  },
+  {
+    "id": "007--ARAGON",
+    "ref": "007--ARAGON",
+    "titulo": "LOCAL COMERCIAL DE 205 M2 APROX. EN BARRIO DE SAN JOSÉ",
+    "descripcion": "¡Espectacular local de 205 m² en venta en el Barrio de San José, Calahorra! \nSi estás buscando un espacio grande, versátil y con infinitas posibilidades de inversión, ¡este inmueble en la Calle Aragón, es justo lo que necesitas! \nSe trata de un local comercial de 205 m² aprox., completamente diáfano, de obra y divisible. \nAl ser un lienzo en blanco, puedes moldearlo por completo para adaptarlo a cualquier tipo de proyecto o negocio. \nPuntos fuertes de esta propiedad: \n*205 m² construidos: Espacio de gran amplitud con techos altos. Fácilmente divisible: Ideal si buscas segregar el espacio para crear almacenes independientes, trasteros o plazas de garaje privadas. \n*Acceso para vehículos: Cuenta con un gran portón metálico de entrada, perfecto para tareas de carga y descarga o estacionamiento. \n*Fachada impecable: Situado a pie de calle en un edificio moderno y residencial del Barrio de San José. \nUn espacio estratégico con el tamaño perfecto para almacén logístico, delegación comercial, talleres o una promoción de trasteros y parkings para los vecinos de la zona. \nPrecio de venta: 210.000 € \n¡Ven a visitarlo y descubre todo su potencial! \nMás información: Contacta con nuestra oficina en Calle General Gallarza, 23 de Calahorra o llámanos al 613 447248.",
+    "tipo": "local",
+    "tipoLabel": "Local comercial",
+    "operacion": "venta",
+    "precio": 210000,
+    "hab": 0,
+    "banos": 0,
+    "m2": 205,
+    "icon": "icon-shop",
+    "portada": "",
+    "fotos": []
   }
 ]
