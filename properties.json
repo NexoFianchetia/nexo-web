@@ -135,5 +135,29 @@
       "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794991070773-rrtpyw.jpg",
       "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794991072368-djggw1.jpg"
     ]
+  },
+  {
+    "id": "008--CATEDRAL",
+    "ref": "008--CATEDRAL",
+    "titulo": "BAJERA O COCHERA EN ZONA DE LA CATEDRAL",
+    "descripcion": "¿BUSCAS UN LOCAL AMPLIO COMO ALMACÉN O COCHERA EN CALAHORRA? \n¡Gran oportunidad de inversión junto a la zona de la Catedral! \nSe vende planta baja diáfana de 72 m² construidos, ideal como almacén para autónomos o particulares que busquen una cochera grande. \n📍 Ubicación: Zona de la Catedral, Calahorra. \n💶 Precio: 45.000 € (¡Excelente relación metros/precio para la zona!). \nPuntos clave del inmueble: \n• Gran portón metálico: Acceso directo desde la calle con altura ideal para furgonetas, remolques o varios coches. \n• Luz natural y ventilación: Cuenta con una ventana a la fachada principal. \n• Espacio diáfano: Techos altos con sólidas vigas de hormigón que garantizan estabilidad. \n• Suministros: El local ha dispuesto históricamente de agua y luz (actualmente requiere instalación de nuevos contadores). \n• Estado: Necesita reformas de acondicionamiento. \nUn lienzo en blanco con muchísimas posibilidades. \n¡Ven a visitarlo y descubre todo su potencial! \n¿Quieres concertar una visita o pedir más detalles? \nMás información: Contacta con nuestra oficina en Calle General Gallarza, 23 de Calahorra o llámanos al 613 447248.",
+    "tipo": "local",
+    "tipoLabel": "Local comercial",
+    "operacion": "venta",
+    "precio": 45000,
+    "hab": 0,
+    "banos": 0,
+    "m2": 72,
+    "icon": "icon-shop",
+    "portada": "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794991754094-v9nhmo.jpg",
+    "fotos": [
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794991754094-v9nhmo.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794991779654-dppxrc.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794991763437-p5nx37.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794991765181-qmb2gk.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794991767538-8weqx1.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794991769397-4sgmvn.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794991771400-2jnm8y.jpg"
+    ]
   }
 ]
