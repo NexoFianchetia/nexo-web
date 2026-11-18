@@ -211,5 +211,26 @@
       "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794992183301-wvp72j.jpg",
       "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794992185208-p84l36.jpg"
     ]
+  },
+  {
+    "id": "004--DERECHOS HUMANOS",
+    "ref": "004--DERECHOS HUMANOS",
+    "titulo": "LOCAL - MERENDERO ACONDICONADO EN PLAZA DE LOS DERECHOS HUMANOS.",
+    "descripcion": "LOCAL / MERENDERO ACONDICIONADO – PLAZA DE LOS DERECHOS HUMANOS \n\n¿Buscas un espacio privado para tus reuniones familiares o una inversión inmobiliaria inteligente en Calahorra?\n¡Esto te interesa! Se vende local comercial de 62 m² construidos, totalmente preparado y decorado como merendero. Cuenta con todas las comodidades: cocina completamente amueblada, chimenea de fuego real, baño y un gran salón-comedor listo para entrar. \n📌 Características destacadas: \n✅ Estado: Totalmente acondicionado, amueblado y equipado. \n✅ Distribución: Zona diáfana de comedor, cocina independiente y baño. \n✅ Tranquilidad: Ventanas de madera orientadas a un patio interior silencioso, en cocina y salón – comedor. \n✅ Ubicación: En plena Plaza de los Derechos Humanos. Un entorno 100% peatonal, sin acceso a coches, seguro y con parque infantil al lado. \n✅ Accesibilidad: Entrada independiente a pie de calle (cota cero). \n\n⚠️ ¡ATENCIÓN INVERSORES! Debido a su excelente ubicación peatonal, superficie de 62 m² y distribución, este local es un candidato ideal para solicitar el cambio de uso a vivienda residencial. Podrás transformarlo en un moderno piso en planta baja, muy demandado en el mercado de alquiler o venta. \n\n💶 Precio de venta: 65.000€ \n¡Ven a visitarlo y descubre todo su potencial! \n¿Quieres concertar una visita o pedir más detalles? Más información: Contacta con nuestra oficina en Calle General Gallarza, 23 de Calahorra o llámanos al 613 447248.",
+    "tipo": "local",
+    "tipoLabel": "Local comercial",
+    "operacion": "venta",
+    "precio": 65000,
+    "hab": 0,
+    "banos": 1,
+    "m2": 62,
+    "icon": "icon-shop",
+    "portada": "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794992497466-kdcnhk.jpg",
+    "fotos": [
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794992497466-kdcnhk.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794992511206-paqwjk.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794992509341-aj93xv.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794992507566-iwn1e1.jpg"
+    ]
   }
 ]
