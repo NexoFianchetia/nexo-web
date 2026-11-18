@@ -104,5 +104,36 @@
       "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794496361669-s6jhc2.jpg",
       "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794496373697-kmjx7a.jpg"
     ]
+  },
+  {
+    "id": "009--PALETILLAS",
+    "ref": "009--PALETILLAS",
+    "titulo": "CARNICERIA TOTALMENTE PREPARADA",
+    "descripcion": "CARNICERÍA TOTALMENTE EQUIPADA\n150 m² Ubicación: Calle Paletillas, nº 7 \nPrecio: 800 €/mes \nSuperficie: 150 m² \nSe alquila local comercial equipado para carnicería / charcutería / obrador. \n¡Listo para entrar y empezar a trabajar! \nIncluye: \nVitrinas frigoríficas expositoras \nObrador equipado con maquinaria (sierra, cortadora, mesas de acero) \nCámara de frío de gran capacidad \nZona de almacén \n¡Ven a visitarlo y descubre todo su potencial! \n¿Quieres concertar una visita o pedir más detalles? \nMás información: Contacta con nuestra oficina en Calle General Gallarza, 23 de Calahorra o llámanos al 613 447248.",
+    "tipo": "local",
+    "tipoLabel": "Local comercial",
+    "operacion": "alquiler",
+    "precio": 800,
+    "hab": 0,
+    "banos": 1,
+    "m2": 150,
+    "icon": "icon-shop",
+    "portada": "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794991021781-mfzplo.jpg",
+    "fotos": [
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794991021781-mfzplo.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794991036983-f0up7u.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794991038744-ctm5aa.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794991040278-4nl1bc.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794991041811-djebwz.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794991043478-zi60wl.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794991045561-8yu7fb.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794991061556-dfsxvw.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794991063564-qjgf92.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794991065479-umrwam.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794991067077-a8xi0i.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794991069055-qsxc12.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794991070773-rrtpyw.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794991072368-djggw1.jpg"
+    ]
   }
 ]
