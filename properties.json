@@ -175,5 +175,32 @@
     "icon": "icon-shop",
     "portada": "",
     "fotos": []
+  },
+  {
+    "id": "006--CANTABRIA",
+    "ref": "006--CANTABRIA",
+    "titulo": "LOCAL COMERCIAL DE 120 M2 EN CL. CANTABRIA ESQ. JOSE Mª GARRIDO",
+    "descripcion": "¡120 m² aprox. TOTALMENTE DIÁFANOS Y SIN COLUMNAS! \n¿Buscando el lugar ideal para abrir las puertas de tu proyecto? \nEste local lo tiene absolutamente todo para triunfar y adaptarse a lo que imagines. \nUbicación: Hace esquina entre Calle Cantabria y José María Garrido. \n¡Visibilidad máxima garantizada! \nCaracterísticas clave:\n • ✨ Espacio 100% diáfano: Sin columnas ni pilares intermedios. ¡Distribución libre y sin obstáculos! \n• Impresionantes escaparates que inundan el espacio de luz natural. \n• Acceso a nivel de calle (sin escalones), retranqueado para mayor comodidad de tus clientes. \n• Seguridad integrada con verja de protección. \nPreparado para cualquier tipo de actividad (tienda, restaurante, oficinas, clínica...).\n¡Dale a tu negocio el espacio y la visibilidad que se merece! \n¡Ven a visitarlo y descubre todo su potencial! \n¿Quieres concertar una visita o pedir más detalles? Más información: Contacta con nuestra oficina en Calle General Gallarza, 23 de Calahorra o llámanos al 613 447248.",
+    "tipo": "local",
+    "tipoLabel": "Local comercial",
+    "operacion": "alquiler",
+    "precio": 1000,
+    "hab": 0,
+    "banos": 0,
+    "m2": 120,
+    "icon": "icon-shop",
+    "portada": "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794992163399-oso9p2.jpg",
+    "fotos": [
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794992163399-oso9p2.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794992165499-6q3xsw.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794992167482-95f6pf.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794992173296-jl0oz2.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794992175530-72i4z7.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794992177615-ih3ava.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794992179706-i9qk7i.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794992181574-jua807.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794992183301-wvp72j.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794992185208-p84l36.jpg"
+    ]
   }
 ]
