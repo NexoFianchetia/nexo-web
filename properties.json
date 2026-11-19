@@ -276,5 +276,21 @@
       "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1795077534848-qssy4v.jpg",
       "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1795077536814-jtg193.jpg"
     ]
+  },
+  {
+    "id": "005--CANTABRIA",
+    "ref": "005--CANTABRIA",
+    "titulo": "LOCAL COMERCIAL DE 120 M2 APROX. EN CL. CANTABRIA",
+    "descripcion": "¡120 m² aprox. TOTALMENTE DIÁFANOS Y SIN COLUMNAS! \n¿Buscando el lugar ideal para abrir las puertas de tu proyecto? \nEste local lo tiene absolutamente todo para triunfar y adaptarse a lo que imagines. Ubicación: Hace esquina entre Calle Cantabria y José María Garrido. \n¡Visibilidad máxima garantizada! \n🎯 📈 Características clave: \n• ✨ Espacio 100% diáfano: Sin columnas ni pilares intermedios. ¡Distribución libre y sin obstáculos! \n• Impresionantes escaparates que inundan el espacio de luz natural. \n• Acceso a nivel de calle (sin escalones), retranqueado para mayor comodidad de tus clientes. \n• Seguridad integrada con verja de protección. Preparado para cualquier tipo de actividad (tienda, restaurante, oficinas, clínica...). \n¡Dale a tu negocio el espacio y la visibilidad que se merece!\nPrecio: Consultar sin compromiso \n¡Ven a visitarlo y descubre todo su potencial! \n¿Quieres concertar una visita o pedir más detalles? Más información: Contacta con nuestra oficina en Calle General Gallarza, 23 de Calahorra o llámanos al 613 447248.",
+    "tipo": "local",
+    "tipoLabel": "Local comercial",
+    "operacion": "venta",
+    "precio": 0,
+    "hab": 0,
+    "banos": 0,
+    "m2": 120,
+    "icon": "icon-shop",
+    "portada": "",
+    "fotos": []
   }
 ]
