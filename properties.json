@@ -290,7 +290,18 @@
     "banos": 0,
     "m2": 120,
     "icon": "icon-shop",
-    "portada": "",
-    "fotos": []
+    "portada": "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1795077792128-e7dgwh.jpg",
+    "fotos": [
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1795077792128-e7dgwh.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1795077794225-wxlhkz.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1795077796330-7gk3kg.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1795077798301-3vz53o.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1795077800366-y2ncjt.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1795077802038-i2yt2z.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1795077804216-xa7hh9.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1795077806088-opugeb.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1795077807965-vvkh4k.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1795077809748-s0kpiu.jpg"
+    ]
   }
 ]
