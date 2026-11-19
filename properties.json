@@ -256,5 +256,25 @@
       "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794992765891-xfiupq.jpg",
       "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1794992744295-yeju2j.jpg"
     ]
+  },
+  {
+    "id": "011--ARAGON",
+    "ref": "011--ARAGON",
+    "titulo": "LOCAL COMERCIAL DE 30 M2 APROX. EN CL. ARAGON",
+    "descripcion": "",
+    "tipo": "local",
+    "tipoLabel": "Local comercial",
+    "operacion": "alquiler",
+    "precio": 0,
+    "hab": 0,
+    "banos": 0,
+    "m2": 30,
+    "icon": "icon-shop",
+    "portada": "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1795077532921-eroofo.jpg",
+    "fotos": [
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1795077532921-eroofo.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1795077534848-qssy4v.jpg",
+      "https://raw.githubusercontent.com/NexoFianchetia/nexo-web/main/fotos/1795077536814-jtg193.jpg"
+    ]
   }
 ]
