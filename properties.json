@@ -285,7 +285,7 @@
     "tipo": "local",
     "tipoLabel": "Local comercial",
     "operacion": "venta",
-    "precio": 0,
+    "precio": null,
     "hab": 0,
     "banos": 0,
     "m2": 120,
