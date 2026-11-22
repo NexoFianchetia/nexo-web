@@ -265,7 +265,7 @@
     "tipo": "local",
     "tipoLabel": "Local comercial",
     "operacion": "alquiler",
-    "precio": 0,
+    "precio": null,
     "hab": 0,
     "banos": 0,
     "m2": 30,
